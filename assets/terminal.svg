@@ -1,0 +1,142 @@
+<svg width="800" height="390" viewBox="0 0 800 390" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Terminal window background -->
+  <rect width="800" height="390" rx="12" fill="#0d0d0d"/>
+
+  <!-- Title bar -->
+  <rect width="800" height="40" rx="12" fill="#1a1a1a"/>
+  <rect y="28" width="800" height="12" fill="#1a1a1a"/>
+
+  <!-- Window dots -->
+  <circle cx="22" cy="20" r="7" fill="#ff5f56"/>
+  <circle cx="44" cy="20" r="7" fill="#ffbd2e"/>
+  <circle cx="66" cy="20" r="7" fill="#27c93f"/>
+
+  <!-- Title bar text -->
+  <text x="400" y="25" text-anchor="middle" fill="#666666" font-family="'Courier New',Courier,monospace" font-size="12">bash  —  hussain@portfolio  —  80x24</text>
+
+  <!-- Subtle scanline overlay -->
+  <rect width="800" height="390" rx="12" fill="url(#scan)" opacity="0.04"/>
+  <defs>
+    <pattern id="scan" x="0" y="0" width="2" height="4" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="2" height="2" fill="#ffffff"/>
+    </pattern>
+  </defs>
+
+  <!-- ── LINE 1: whoami ── -->
+  <text y="72" font-family="'Courier New',Courier,monospace" font-size="14.5">
+    <tspan x="20" fill="#27c93f">hussain@ai</tspan>
+    <tspan fill="#ffffff">:</tspan>
+    <tspan fill="#5f87ff">~</tspan>
+    <tspan fill="#ffffff">$ </tspan>
+    <tspan fill="#e2e2e2">whoami</tspan>
+  </text>
+
+  <!-- whoami output -->
+  <text y="95" font-family="'Courier New',Courier,monospace" font-size="14.5">
+    <tspan x="20" fill="#ffd700" font-weight="bold">Hussain Mansoor</tspan>
+    <tspan fill="#555">  //  </tspan>
+    <tspan fill="#00d4ff">AI / ML Engineer</tspan>
+    <tspan fill="#555">  //  </tspan>
+    <tspan fill="#ff79c6">Pakistan 🇵🇰</tspan>
+  </text>
+
+  <!-- ── LINE 2: cat focus.txt ── -->
+  <text y="128" font-family="'Courier New',Courier,monospace" font-size="14.5">
+    <tspan x="20" fill="#27c93f">hussain@ai</tspan>
+    <tspan fill="#ffffff">:</tspan>
+    <tspan fill="#5f87ff">~</tspan>
+    <tspan fill="#ffffff">$ </tspan>
+    <tspan fill="#e2e2e2">cat focus.txt</tspan>
+  </text>
+
+  <text y="150" font-family="'Courier New',Courier,monospace" font-size="13.5">
+    <tspan x="20" fill="#888">▸ </tspan>
+    <tspan fill="#e2e2e2">NLP  </tspan>
+    <tspan fill="#888">·  </tspan>
+    <tspan fill="#e2e2e2">Computer Vision  </tspan>
+    <tspan fill="#888">·  </tspan>
+    <tspan fill="#e2e2e2">Generative AI  </tspan>
+    <tspan fill="#888">·  </tspan>
+    <tspan fill="#e2e2e2">Reinforcement Learning</tspan>
+  </text>
+
+  <!-- ── LINE 3: ls skills ── -->
+  <text y="183" font-family="'Courier New',Courier,monospace" font-size="14.5">
+    <tspan x="20" fill="#27c93f">hussain@ai</tspan>
+    <tspan fill="#ffffff">:</tspan>
+    <tspan fill="#5f87ff">~</tspan>
+    <tspan fill="#ffffff">$ </tspan>
+    <tspan fill="#e2e2e2">ls skills/</tspan>
+  </text>
+
+  <text y="205" font-family="'Courier New',Courier,monospace" font-size="13.5">
+    <tspan x="20" fill="#ff6b6b">Python       </tspan>
+    <tspan fill="#ffa500">TensorFlow   </tspan>
+    <tspan fill="#ee4c2c">PyTorch      </tspan>
+    <tspan fill="#f7931e">Scikit-learn </tspan>
+    <tspan fill="#00d4ff">LangChain</tspan>
+  </text>
+  <text y="223" font-family="'Courier New',Courier,monospace" font-size="13.5">
+    <tspan x="20" fill="#ffbd2e">HuggingFace  </tspan>
+    <tspan fill="#27338e">OpenCV       </tspan>
+    <tspan fill="#009688">FastAPI      </tspan>
+    <tspan fill="#bd93f9">Jupyter      </tspan>
+    <tspan fill="#27c93f">OpenAI</tspan>
+  </text>
+
+  <!-- ── LINE 4: git log ── -->
+  <text y="256" font-family="'Courier New',Courier,monospace" font-size="14.5">
+    <tspan x="20" fill="#27c93f">hussain@ai</tspan>
+    <tspan fill="#ffffff">:</tspan>
+    <tspan fill="#5f87ff">~</tspan>
+    <tspan fill="#ffffff">$ </tspan>
+    <tspan fill="#e2e2e2">git log --oneline projects/</tspan>
+  </text>
+
+  <text y="277" font-family="'Courier New',Courier,monospace" font-size="12.5">
+    <tspan x="20" fill="#bd93f9">a3f8c2b </tspan>
+    <tspan fill="#e2e2e2">AI-ProctorSense         </tspan>
+    <tspan fill="#555">— AI motion detection for exam proctoring</tspan>
+  </text>
+  <text y="295" font-family="'Courier New',Courier,monospace" font-size="12.5">
+    <tspan x="20" fill="#bd93f9">d1e9f4a </tspan>
+    <tspan fill="#e2e2e2">Mental-Health-GPT       </tspan>
+    <tspan fill="#555">— transformer-based evaluation model</tspan>
+  </text>
+  <text y="313" font-family="'Courier New',Courier,monospace" font-size="12.5">
+    <tspan x="20" fill="#bd93f9">7c2b1d9 </tspan>
+    <tspan fill="#e2e2e2">Music-Generation-AI     </tspan>
+    <tspan fill="#555">— LSTM deep learning on MIDI files</tspan>
+  </text>
+  <text y="331" font-family="'Courier New',Courier,monospace" font-size="12.5">
+    <tspan x="20" fill="#bd93f9">e5a3f1c </tspan>
+    <tspan fill="#e2e2e2">FrozenLake-RL           </tspan>
+    <tspan fill="#555">— policy gradient reinforcement learning</tspan>
+  </text>
+
+  <!-- ── Final prompt + blinking cursor ── -->
+  <text y="364" font-family="'Courier New',Courier,monospace" font-size="14.5">
+    <tspan x="20" fill="#27c93f">hussain@ai</tspan>
+    <tspan fill="#ffffff">:</tspan>
+    <tspan fill="#5f87ff">~</tspan>
+    <tspan fill="#ffffff">$ </tspan>
+  </text>
+
+  <!-- Blinking block cursor -->
+  <rect x="148" y="349" width="9" height="17" fill="#27c93f">
+    <animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Bottom glow line -->
+  <rect x="0" y="386" width="800" height="4" rx="2" fill="url(#glow)"/>
+  <defs>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d0d0d"/>
+      <stop offset="30%" style="stop-color:#27c93f"/>
+      <stop offset="70%" style="stop-color:#00d4ff"/>
+      <stop offset="100%" style="stop-color:#0d0d0d"/>
+    </linearGradient>
+  </defs>
+
+</svg>
