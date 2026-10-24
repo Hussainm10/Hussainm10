@@ -60,25 +60,25 @@
 <br/>
 
 <div align="center">
+  <a href="https://github.com/Hussainm10/Pashto-Text-to-Speech">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hussainm10&repo=Pashto-Text-to-Speech&hide_border=true&bg_color=111111&title_color=6a8aaa&icon_color=9a8fbb&text_color=666666"/>
+  </a>
+  <a href="https://github.com/Hussainm10/Marble-FDS-Platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hussainm10&repo=Marble-FDS-Platform&hide_border=true&bg_color=111111&title_color=6a8aaa&icon_color=9a8fbb&text_color=666666"/>
+  </a>
+  <br/>
   <a href="https://github.com/Hussainm10/AI-ProctorSense">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hussainm10&repo=AI-ProctorSense&hide_border=true&bg_color=111111&title_color=6a8aaa&icon_color=9a8fbb&text_color=666666"/>
   </a>
-  <a href="https://github.com/Hussainm10/Generated-Pre-Trained-Model-GPT-for-Mental-Health-Evaluation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hussainm10&repo=Generated-Pre-Trained-Model-GPT-for-Mental-Health-Evaluation&hide_border=true&bg_color=111111&title_color=6a8aaa&icon_color=9a8fbb&text_color=666666"/>
+  <a href="https://github.com/Hussainm10/HowYouFeelAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hussainm10&repo=HowYouFeelAI&hide_border=true&bg_color=111111&title_color=6a8aaa&icon_color=9a8fbb&text_color=666666"/>
   </a>
   <br/>
-  <a href="https://github.com/Hussainm10/Music-Generation-with-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hussainm10&repo=Music-Generation-with-AI&hide_border=true&bg_color=111111&title_color=6a8aaa&icon_color=9a8fbb&text_color=666666"/>
+  <a href="https://github.com/Hussainm10/Mini-Gateway-Fruad">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hussainm10&repo=Mini-Gateway-Fruad&hide_border=true&bg_color=111111&title_color=6a8aaa&icon_color=9a8fbb&text_color=666666"/>
   </a>
-  <a href="https://github.com/Hussainm10/Language-Translation-Tool-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hussainm10&repo=Language-Translation-Tool-&hide_border=true&bg_color=111111&title_color=6a8aaa&icon_color=9a8fbb&text_color=666666"/>
-  </a>
-  <br/>
-  <a href="https://github.com/Hussainm10/FrozenLake-Variant-Using-Policy-Gradients">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hussainm10&repo=FrozenLake-Variant-Using-Policy-Gradients&hide_border=true&bg_color=111111&title_color=6a8aaa&icon_color=9a8fbb&text_color=666666"/>
-  </a>
-  <a href="https://github.com/Hussainm10/FAQ-chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hussainm10&repo=FAQ-chatbot&hide_border=true&bg_color=111111&title_color=6a8aaa&icon_color=9a8fbb&text_color=666666"/>
+  <a href="https://github.com/Hussainm10/Ice-Walker-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hussainm10&repo=Ice-Walker-AI&hide_border=true&bg_color=111111&title_color=6a8aaa&icon_color=9a8fbb&text_color=666666"/>
   </a>
 </div>
 
